@@ -1,9 +1,6 @@
 # Easy-Pandas
 A beginner-friendly Jupyter Notebook that introduces essential Pandas concepts with clear examples. Perfect for learners and data enthusiasts looking to master data cleaning, exploration, and basic analysis using Python.
 
-# Easy Pandas
-
-This repository contains **Easy Pandas**, a beginner-friendly Jupyter Notebook designed to help users quickly understand and apply essential **Pandas** functions for data analysis.
 
 ## 📘 Overview
 
